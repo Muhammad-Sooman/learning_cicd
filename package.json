@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
-    "test": "timer.js"
+    "start": "node index.js",
+    "test": "node timer.js"
   },
   "author": "",
   "license": "ISC"
