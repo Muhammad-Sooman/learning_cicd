@@ -1,5 +1,5 @@
-console.log("Start Timer")
+console.log("Start Timer");
 setTimeout(() => {
-    console.log("Timer...")
+  console.log("waiting 3 seconds...");
 }, 3000);
-console.log("Stop Timer")
+console.log("Stop Timer");
