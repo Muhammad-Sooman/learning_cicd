@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v5
       - name: Setup Node
-        uses: actions/node@v3
+        uses: actions/setup-node@v3
         with:
           node-version: 16
       
