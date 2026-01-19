@@ -20,4 +20,7 @@ jobs:
         run: npm install
 
       - name: Run App
-        run: npm index
+        run: npm start
+
+      - name: Run Timer
+        run: npm timer
